@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asim Selim</h1>
-<h2 align="center">I'm a Frontend Developer and UI/UX Designer with a passion for creating beautiful and functional websites and applications.</h2>
+<h2 align="center">A Frontend Developer & UI/UX Designer
+Passionate about crafting visually stunning and user-centric websites and applications that seamlessly blend aesthetics with functionality..</h2>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=assim9&label=Profile%20views&color=0e75b6&style=flat" alt="assim9" /></p>
 
