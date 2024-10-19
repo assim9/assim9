@@ -1,26 +1,32 @@
 <h1 align="center">Hi 👋, I'm Asim Selim</h1>
-<h2 align="center">A Frontend Developer & UI/UX Designer
-Passionate about crafting visually stunning and user-centric websites and applications that seamlessly blend aesthetics with functionality..</h2>
+<h2 align="center">
+  A Frontend Developer & UI/UX Designer passionate about crafting visually stunning and user-centric websites and applications that seamlessly blend aesthetics with functionality.
+</h2>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=assim9&label=Profile%20views&color=0e75b6&style=flat" alt="assim9" /></p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=assim9&label=Profile%20views&color=0e75b6&style=flat" alt="assim9" />
+</p>
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A little more about me...   
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A little more about me...
 ```javascript
 const Egyptian = {
-  pronouns: "He" | "him",
-  Education: {
-                Software Engineering at İstanbul Nişantaşı Üniversitesi,
-                Web Developer at Anadolu University,
-                
-  code: [Javascript, HTML, CSS, Java, Wordpress],
-  tools: [React, Bootstrap, Adobe XD, Figma],
-  Design: ["UI", "UX", "design system pattern"],
-  Languages: {
-                        
-                        speaker: "Arabic", "Turkish", "English",
-                        
-                      },
-}
+  pronouns: "He" | "Him",
+  education: {
+    university: [
+      "Software Engineering at İstanbul Nişantaşı Üniversitesi",
+      "Web Development at Anadolu University"
+    ],
+    certifications: [
+      "Frontend Development",
+      "Web Design",
+      "UI/UX Design from Google"
+    ]
+  },
+  code: ["Javascript", "HTML", "CSS", "Java", "Wordpress"],
+  tools: ["React", "Bootstrap", "Adobe XD", "Figma"],
+  design: ["UI", "UX", "UX Research", "Design System Patterns"],
+  languages: ["Arabic", "Turkish", "English"]
+};
 ```
 ### <h3 align="left">Connect with me:</h3>
 <p align="left">
