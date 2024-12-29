@@ -32,7 +32,7 @@ const Egyptian = {
 <p align="left">
 <a href="https://twitter.com/@asimselim3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@asimselim3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/asim-selim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asim selim" height="30" width="40" /></a>
-<a href="https://www.instagram.com/a_3sim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_3sim" height="30" width="40" /></a>
+<a href="https://www.instagram.com/a_3sim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_3sim" height="30" width="40" /></a>
 <a href="https://www.behance.net/asimselim1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="asimselim1" height="30" width="40" /></a>
 </p>
 <br>
