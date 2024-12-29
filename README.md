@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asim Selim</h1>
 <h2 align="center">
-  A Frontend Developer & UI/UX Designer passionate about crafting visually stunning and user-centric websites and applications that seamlessly blend aesthetics with functionality.
+  A Frontend Developer & UI/UX Designer is passionate about crafting visually stunning and user-centric websites and applications that seamlessly blend aesthetics with functionality.
 </h2>
 
 <p align="right">
@@ -22,7 +22,7 @@ const Egyptian = {
       "UI/UX Design from Google"
     ]
   },
-  code: ["Javascript", "HTML", "CSS", "Java", "Wordpress"],
+  code: ["Javascript", "HTML", "CSS", "Java", "WordPress"],
   tools: ["React", "Bootstrap", "Adobe XD", "Figma"],
   design: ["UI", "UX", "UX Research", "Design System Patterns"],
   languages: ["Arabic", "Turkish", "English"]
@@ -31,7 +31,7 @@ const Egyptian = {
 ### <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@asimselim3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@asimselim3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asim selim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asim selim" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/asim-selim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asim selim" height="30" width="40" /></a>
 <a href="https://instagram.com/a_3sim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_3sim" height="30" width="40" /></a>
 <a href="https://www.behance.net/asimselim1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="asimselim1" height="30" width="40" /></a>
 </p>
